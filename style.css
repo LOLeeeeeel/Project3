@@ -1,0 +1,36 @@
+/*https://teachablemachine.withgoogle.com/models/83g_Z-N1U/ */
+body{
+    background-color: #c56621;
+    font-family: "Special Elite", cursive;
+}
+
+.header_div{
+    background-color: white;
+    color: rgb(219, 11, 101);
+}
+
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    color: grey;
+    letter-spacing: 2px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(119, 117, 117);
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+    line-height: 3;
+    background-color: white;
+    text-align: center;
+    text-shadow: 3px 3px 3px grey;
+}
